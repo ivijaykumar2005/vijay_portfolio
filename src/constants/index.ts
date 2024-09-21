@@ -21,7 +21,7 @@ import {
   head_spin,
   house_1,
   phone,
-  japan_master_1,
+  //japan_master_1,
   man_human_fusion_2,
   mosquito_robot_1,
   robot,
@@ -357,21 +357,7 @@ const projects: TProject[] = [
     image: man_human_fusion_2,
     sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/man_human_fusion",
   },
-  {
-    name: "3D model of Japan master",
-    description:
-      "Detailed 3D model of a wise Japanese martial arts master.",
-    tags: 
-    [
-      {
-        name: "ZBrush",
-        color: "blue-text-gradient",
-      },
   
-    ],
-    image: japan_master_1,
-    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/japan%20master",
-  },
   
 ];
 
