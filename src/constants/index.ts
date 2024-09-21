@@ -17,8 +17,8 @@ import {
   //banshee_avatar_3,
   game_character_1,
   //girl_2,
-  //head_1,
-  //head_spin,
+  head_1,
+  head_spin,
   //house_1,
   //phone,
   //japan_master_1,
@@ -28,7 +28,7 @@ import {
   //saber_toothed_tiger,
   //sci_fi_gun_1,
   //snake,
-  //vinayagar,
+  vinayagar,
   //water_monster_2,
   mobile,
   backend,
@@ -164,7 +164,52 @@ const projects: TProject[] = [
     image: game_character_1,
     sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/game_character",
   },
+
+  {
+    name: "Head Spin Dance - 3D Animation",
+    description:
+      "Created a dynamic head spin dance animation showcasing character movement and fluidity.",
+    tags: 
+    [
+      {
+        name: "Autodesk Maya",
+        color: "blue-text-gradient",
+      },
   
+    ],
+    image: head_spin,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_Animation/tree/main/head_spin_animation",
+  },
+  {
+    name: "3D model of Vinayagar",
+    description:
+      "Modeled a detailed 3D representation of Vinayagar, focusing on traditional aesthetics",
+    tags: 
+    [
+      {
+        name: "ZBrush",
+        color: "blue-text-gradient",
+      },
+  
+    ],
+    image: vinayagar,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/vinayagar",
+  },
+  {
+    name: "3D model of human head",
+    description:
+      "Developed a realistic 3D model of a human head, emphasizing anatomical accuracy.",
+    tags: 
+    [
+      {
+        name: "ZBrush",
+        color: "blue-text-gradient",
+      },
+  
+    ],
+    image: head_1,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/head",
+  },
   
 ];
 
