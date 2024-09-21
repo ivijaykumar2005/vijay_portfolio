@@ -19,13 +19,13 @@ import {
   girl_2,
   head_1,
   head_spin,
-  //house_1,
+  house_1,
   phone,
-  //japan_master_1,
-  //man_human_fusion_2,
+  japan_master_1,
+  man_human_fusion_2,
   mosquito_robot_1,
   robot,
-  //saber_toothed_tiger,
+  saber_toothed_tiger,
   sci_fi_gun_1,
   snake,
   vinayagar,
@@ -304,6 +304,75 @@ const projects: TProject[] = [
     image: sci_fi_gun_1,
     sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/sci_fi_gun",
   },
+  {
+    name: "3D model of House",
+    description:
+      "Designed a detailed 3D model of a house, including interior and exterior elements.",
+    tags: 
+    [
+      {
+        name: "Maya",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Blender",
+        color: "green-text-gradient",
+      },
+  
+    ],
+    image: house_1,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/house",
+  },
+  {
+    name: "3D model of Saber toothed tiger",
+    description:
+      " Created a realistic 3D model of a saber-toothed tiger, focusing on anatomical details",
+    tags: 
+    [
+      {
+        name: "ZBrush",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Maya",
+        color: "green-text-gradient",
+      },
+  
+    ],
+    image: saber_toothed_tiger,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/saber_toothed_tiger",
+  },
+  {
+    name: "3D model of human and animal fusion",
+    description:
+      "Modeled a fusion of human and animal forms, showcasing creativity and advanced modeling skills.",
+    tags: 
+    [
+      {
+        name: "ZBrush",
+        color: "blue-text-gradient",
+      },
+  
+    ],
+    image: man_human_fusion_2,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/man_human_fusion",
+  },
+  {
+    name: "3D model of Japan master",
+    description:
+      "Detailed 3D model of a wise Japanese martial arts master.",
+    tags: 
+    [
+      {
+        name: "ZBrush",
+        color: "blue-text-gradient",
+      },
+  
+    ],
+    image: japan_master_1,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/japan%20master",
+  },
+  
 ];
 
 export { services, technologies, experiences, projects };
