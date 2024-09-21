@@ -20,14 +20,14 @@ import {
   head_1,
   head_spin,
   //house_1,
-  //phone,
+  phone,
   //japan_master_1,
   //man_human_fusion_2,
   mosquito_robot_1,
   robot,
   //saber_toothed_tiger,
-  //sci_fi_gun_1,
-  //snake,
+  sci_fi_gun_1,
+  snake,
   vinayagar,
   water_monster_2,
   mobile,
@@ -254,6 +254,55 @@ const projects: TProject[] = [
     ],
     image: banshee_avatar_3,
     sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/banshee_avatar",
+  },
+  {
+    name: "3D model of snake",
+    description:
+      "Created a realistic 3D model of a snake, focusing on scales and movement dynamics.",
+    tags: 
+    [
+      {
+        name: "ZBrush",
+        color: "blue-text-gradient",
+      },
+  
+    ],
+    image: snake,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/snake",
+  },
+  {
+    name: "3D model of Rotary dial hone",
+    description:
+      "Modeled a vintage rotary dial phone with detailed textures and historical accuracy",
+    tags: 
+    [
+      {
+        name: "Maya",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Substance Painter",
+        color: "green-text-gradient",
+      },
+  
+    ],
+    image: phone,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/phone",
+  },
+  {
+    name: "3D model of Sci-fi gun",
+    description:
+      "Developed a futuristic sci-fi gun model for gaming and interactive media",
+    tags: 
+    [
+      {
+        name: "Maya",
+        color: "blue-text-gradient",
+      },
+  
+    ],
+    image: sci_fi_gun_1,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/sci_fi_gun",
   },
 ];
 
