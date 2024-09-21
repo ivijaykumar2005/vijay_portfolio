@@ -14,9 +14,9 @@ import {
   photoshop,
   substancepainter,
   zbrush,
-  //banshee_avatar_3,
+  banshee_avatar_3,
   game_character_1,
-  //girl_2,
+  girl_2,
   head_1,
   head_spin,
   //house_1,
@@ -29,7 +29,7 @@ import {
   //sci_fi_gun_1,
   //snake,
   vinayagar,
-  //water_monster_2,
+  water_monster_2,
   mobile,
   backend,
   creator,
@@ -210,7 +210,51 @@ const projects: TProject[] = [
     image: head_1,
     sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/head",
   },
+  {
+    name: "3D model of girl",
+    description:
+      "Created a detailed 3D model of a female character, focusing on character design and textures.",
+    tags: 
+    [
+      {
+        name: "ZBrush",
+        color: "blue-text-gradient",
+      },
   
+    ],
+    image: girl_2,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/girl",
+  },
+  {
+    name: "3D model of Water monster",
+    description:
+      "Designed a 3D model of a water monster, incorporating realistic water effects and textures.",
+    tags: 
+    [
+      {
+        name: "ZBrush",
+        color: "blue-text-gradient",
+      },
+  
+    ],
+    image: water_monster_2,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/water_monster",
+  },
+  {
+    name: "3D model of Banshee Avatar",
+    description:
+      "Modeled a banshee avatar with intricate details and ethereal textures for visual impact",
+    tags: 
+    [
+      {
+        name: "ZBrush",
+        color: "blue-text-gradient",
+      },
+  
+    ],
+    image: banshee_avatar_3,
+    sourceCodeLink: "https://github.com/ivijaykumar2005/3D_model/tree/main/banshee_avatar",
+  },
 ];
 
 export { services, technologies, experiences, projects };
