@@ -45,7 +45,7 @@ export const config: TConfig = {
   },
   hero: {
     name: "Vijay Kumar",
-    p: ["I Create 3D models, 3D animation,and 3D sculpting"],
+    p: ["I create 3D models, 3D animation,and 3D sculpting"],
   },
   contact: {
     p: "Get in touch",
